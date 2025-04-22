@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yassinesawahi061@gmail.com**
 
-- ⚡ Fun fact **I'm rated 1100 in chess.com**
+- ⚡ Fun fact **I'm rated 1200 in chess.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
