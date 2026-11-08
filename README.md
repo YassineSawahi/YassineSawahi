@@ -37,7 +37,7 @@ My daily driver is [Omarchy](https://omarchy.org). These are the plugins, themes
 </td>
 <td align="center" valign="top" width="33%">
 <a href="https://github.com/YassineSawahi/omarchy-gliff-door"><img src="https://raw.githubusercontent.com/YassineSawahi/omarchy-gliff-door/main/preview.png" height="220" alt="omarchy-gliff-door panel"/></a><br/>
-<b><a href="https://github.com/YassineSawahi/omarchy-gliff-door">omarchy-gliff-door</a></b> 🆕<br/>
+<b><a href="https://github.com/YassineSawahi/omarchy-gliff-door">omarchy-gliff-door</a></b><br/>
 <sub>Let your other machines remote-desktop in with Gliff, each behind a switch; their SSH keys can only start gliff-server</sub>
 </td>
 </tr>
@@ -56,6 +56,13 @@ My daily driver is [Omarchy](https://omarchy.org). These are the plugins, themes
 📞<br/>
 <b><a href="https://github.com/YassineSawahi/voice-foreman">voice-foreman</a></b><br/>
 <sub>Claude on a real phone call over Tailscale: it calls me when my Claude Code sessions finish or need me, and takes the next task by voice. <code>omarchy-voice</code> is its switch.</sub>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%">
+<a href="https://github.com/YassineSawahi/omarchy-gamemode"><img src="https://raw.githubusercontent.com/YassineSawahi/omarchy-gamemode/main/preview.png" height="220" alt="omarchy-gamemode panel"/></a><br/>
+<b><a href="https://github.com/YassineSawahi/omarchy-gamemode">omarchy-gamemode</a></b> 🆕<br/>
+<sub>Free RAM before a game: tick which apps, Docker projects and the file indexer to pause, and bring them back after</sub>
 </td>
 </tr>
 </table>
